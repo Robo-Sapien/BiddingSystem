@@ -1,12 +1,10 @@
 # BiddingSystem
 
-FlipBidder
-
 
 Problem Definition:
 
 
-A company FlipBidder has hosted an Online Auction System where any User(seller) can sell an object through an auction.
+A company xyz has hosted an Online Auction System where any User(seller) can sell an object through an auction.
 
 
 
