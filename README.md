@@ -29,7 +29,7 @@ The program should take as input two or more auctions and a set of users partici
 
 
 
-A new requirement came in where FlipBidder has requested that they want to decide the winner based on the lowest bid as well. Accommodate this change as well.
+A new requirement came in where the company xyz has requested that they want to decide the winner based on the lowest bid as well. Accommodate this change as well.
 
 
 
